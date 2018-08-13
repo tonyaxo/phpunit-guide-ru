@@ -1,5 +1,6 @@
 # PHPunit русское руководство
 
+не актуально: https://phpunit.readthedocs.io/ru/latest/
 
 ## Глава 1
 
